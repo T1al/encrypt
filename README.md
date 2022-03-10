@@ -2,7 +2,6 @@
 
 * This Tool For Encrypt
 * You Can Use it For Linux,ios,android,windows 
-* Please Don't use the tool for anything illegal
 
 # Installations 
 
